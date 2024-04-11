@@ -9,9 +9,8 @@ This is a simple password manager written in Python. It uses the `cryptography` 
 
 ## :computer: How to Use
 1. :arrow_down: Clone this repository to your local machine.
-2. :wrench: Install the required Python libraries by running `pip install -r requirements.txt`.
-3. :arrow_forward: Run the script using `python password_manager.py`.
-4. :question: You will be prompted with options to `view`, `add`, or `quit (q)`. Type in your desired option and press Enter.
+2. :arrow_forward: Run the script using `python main.py`.
+3. :question: You will be prompted with options to `view`, `add`, or `quit (q)`. Type in your desired option and press Enter.
     - If you choose `add`, you will be asked to input a username and password. The password will be encrypted and stored securely.
     - If you choose `view`, you will see a list of all usernames. You can then input any username to view the associated password.
 
